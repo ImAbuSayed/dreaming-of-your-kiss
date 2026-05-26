@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-your-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dreaming Of Your Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-kiss/) |
+| **Get License** | [Secure Licensing Rights for Dreaming Of Your Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42359d46a6195fe5c28156d40cdbe75f832f7a06f1cc1c0d9ea6dca967bea2e4` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
