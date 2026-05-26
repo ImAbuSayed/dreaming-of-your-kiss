@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dreaming-of-your-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dreaming Of Your Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-kiss/) |
+| **Get License** | [Get a Licensing Quote for Dreaming Of Your Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dreaming-of-your-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dance in the amber light
+> I am completely yours tonight
+> A quiet room and a burning fire
+> Falling deep in a sweet desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
